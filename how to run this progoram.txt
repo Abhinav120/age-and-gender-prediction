@@ -1,0 +1,7 @@
+hello there,
+its abhinav sahu and i will show u how to run 
+this age and gender prediction program works 
+step1:-open the folder in which u have download this age.py file download 
+step2:-and and then press shift+rightclick 
+step3:-you will see the option open powershell click on that option 
+step4:-then type this streamlit run age.py
